@@ -1,0 +1,33 @@
+﻿Pick,KNN10,KNN19,KNN32,LogReg,RndmForest
+1,Unsure,1 SL,Unsure,Unsure,Unsure
+2,1 SL,1 SL,Unsure,1 SL,Unsure
+3,2 L,Unsure,Unsure,Unsure,Unsure
+4,2 SL,2 SL,2 SL,2 L,2 SL
+5,Unsure,Unsure,Unsure,1 SL,Unsure
+6,1 ML,1 L,1 SL,Unsure,Unsure
+7,1 SL,Unsure,Unsure,Unsure,Unsure
+8,2 ML,2 SL,Unsure,2 L,Unsure
+9,1 SL,1 SL,Unsure,1 SL,Unsure
+10,Unsure,Unsure,2 SL,2 L,Unsure
+11,2 ML,2 L,Unsure,1 L,Unsure
+12,1 L,1 SL,Unsure,Unsure,Unsure
+13,Unsure,Unsure,Unsure,2 SL,2 SL
+14,2 ML,2 SL,2 SL,2 ML,2 SL
+15,2 SL,Unsure,2 SL,1 SL,Unsure
+16,Unsure,Unsure,2 SL,Unsure,Unsure
+17,2 SL,2 SL,2 SL,2 L,2 SL
+18,1 ML,1 L,1 L,Unsure,Unsure
+19,1 SL,1 SL,1 SL,1 L,Unsure
+20,1 SL,1 SL,Unsure,1 L,Unsure
+21,2 L,2 SL,2 SL,Unsure,Unsure
+22,2 ML,2 L,Unsure,2 ML,2 SL
+23,1 SL,1 SL,Unsure,1 L,Unsure
+24,1 L,1 SL,Unsure,1 SL,1 SL
+25,Unsure,1 SL,Unsure,Unsure,Unsure
+26,2 L,2 L,2 L,Unsure,2 SL
+27,2 L,Unsure,2 SL,2 L,Unsure
+28,Unsure,Unsure,Unsure,2 L,Unsure
+29,1 SL,Unsure,Unsure,2 ML,Unsure
+30,2 ML,2 L,2 SL,Unsure,2 L
+31,2 L,Unsure,2 SL,2 L,Unsure
+32,2 SL,2 SL,2 L,Unsure,Unsure
