@@ -1,5 +1,5 @@
 # 2021-NFL-Draft
-Goal: Predict if teams will take an Offensive (OFF) or Defensive (DEF) player in the 1st round of the 2021 NFL Draft
+**Goal: Predict if teams will take an Offensive (OFF) or Defensive (DEF) player in the 1st round of the 2021 NFL Draft**
 
 Scraped and consolidated data from multiple websites to obtain draft order and teams’ last year’s stats
 
